@@ -1,0 +1,195 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+body {
+    background-image: url(galeri/caca1\ blur.png);
+    background-size: 400px;
+    background-repeat: repeat;
+    /* font-family:'Titan One', cursive;; */
+    font-family: 'M PLUS 1 Code', sans-serif;
+    
+}
+/*halaman pertama*/
+
+
+.untukcaca {
+    margin-top: 10px;
+    background-color: rgba(53, 150, 215, 0.5);
+    text-align: center;
+    border-radius: 50px;
+    box-shadow: 2px 4px 2px rgba(19, 17, 17,0.5);
+    margin-bottom: 50px;
+    margin-right: 10px;
+    margin-left : 10px;
+    
+
+}
+h1{
+    color: #1F4492;
+    font-size: 25px;
+    padding: 10px;
+    
+}
+.kado {
+    margin: auto;
+    width: 300px;
+    height: 278px;
+    background-image: url(galeri/kado.png);
+    background-size: 300px;
+    
+    
+}
+.kado a {
+    padding-left: 110px;
+    font-size: 200px;
+    opacity: 0;
+}
+
+/* halaman1 */
+
+.ami {
+    margin: auto;
+    width: 300px;
+    height: 440px;
+    background-image: url(galeri/2bujurr.png);
+    background-size: 300px;
+}
+.ami a {display: inline-block;
+    margin-left: 130px;
+    margin-top: 213px;
+    font-size: 50px;
+    opacity: 0;
+}
+/* halaman2 */
+
+.gif {
+    margin: auto;
+    background-image: url(/caca/galeri/gif1.gif);
+    width: 200px;
+    height: 170px;
+    background-size: 200px;
+    margin-top: 30px;
+}
+.teks1 {
+    
+    margin: 20px auto;
+    border-radius: 50px;
+    padding: 15px;
+    width: 300px;
+    text-align: center;
+    background-color: rgba(40, 35, 35, 0.5);
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: bold;
+}
+.lanjut {
+    background-color: black;
+    margin: auto;
+    width: 150px;
+    height: 30px;
+    
+    font-size: 30px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 20px;
+    
+}
+.lanjut a {
+    color: white;
+    text-decoration: none;
+}
+
+.gif2 {
+    margin: auto;
+    background-image: url(galeri/gif2.gif);
+    width: 200px;
+    height: 170px;
+    background-size: 200px;
+    margin-top: 30px;}
+    .gif3 {
+        margin: auto;
+        background-image: url(galeri/gift3.gif);
+        width: 200px;
+        height: 170px;
+        background-size: 200px;
+        margin-top: 30px;}
+        .gif4 {
+            margin: auto;
+            background-image: url(galeri/gift4.gif);
+            width: 200px;
+            height: 170px;
+            background-size: 200px;
+            margin-top: 30px;}
+            .gif5 {
+                margin: auto;
+                background-image: url(galeri/gift5.gif);
+                width: 200px;
+                height: 170px;
+                background-size: 200px;
+                margin-top: 30px;}
+                .gif6 {
+                    margin: auto;
+                    background-image: url(galeri/gift6.gif);
+                    width: 200px;
+                    height: 170px;
+                    background-size: 200px;
+                    margin-top: 30px;}
+                    .gif7 {
+                        margin: auto;
+                        background-image: url(galeri/gif7.gif);
+                        width: 200px;
+                        height: 170px;
+                        background-size: 200px;
+                        margin-top: 30px;}
+                        .gif8 {
+                            margin: auto;
+                            background-image: url(galeri/gif8.gif);
+                            width: 200px;
+                            height: 170px;
+                            background-size: 200px;
+                            margin-top: 30px;}
